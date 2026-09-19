@@ -1,4 +1,12 @@
-<h1 align="center">itereon</h1>
+<p align="center">
+  <!-- Upstream names the files by background: logo-white.svg has white ink (for dark
+       backgrounds), logo-dark.svg has dark ink (for light backgrounds). -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itereon-dev/.github/main/profile/assets/logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itereon-dev/.github/main/profile/assets/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/itereon-dev/.github/main/profile/assets/logo-dark.svg" alt="itereon" width="300">
+  </picture>
+</p>
 
 <p align="center">
   AI strategy, intelligent automation and software engineering.<br>
@@ -41,10 +49,5 @@ checksums, and its support channel.
 
 itereon GmbH · Arsenalstraße 11, 1030 Vienna, Austria · FN 681324y, Handelsgericht Wien · VAT ID ATU83377089.
 [Imprint](https://www.tradepolydesk.com/imprint) · [Privacy](https://www.tradepolydesk.com/privacy) · [Terms](https://www.tradepolydesk.com/terms)
-
-> Trading involves risk of loss. Nothing published here is financial advice. Availability
-> and legality of trading on third-party platforms vary by jurisdiction; confirming that
-> your use is permitted where you are is your responsibility. Third-party names and
-> trademarks are the property of their respective owners; any use is descriptive only.
 
 © 2026 itereon GmbH. All rights reserved.
